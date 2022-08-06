@@ -1,4 +1,4 @@
-# Mernstack E-Commerce App - **BBMark**
+# MERN Stack E-Commerce App - **BBMark**
 
 live : https://bbmark.vercel.app/
 
