@@ -1,6 +1,6 @@
 # Mernstack E-Commerce App - **BBMark**
 
-https://bbmark.vercel.app/
+live : https://bbmark.vercel.app/
 
 * In the project, **MongoDB**, **Nodejs**, **Context API**, **React**, **Tailwind** were used as technology.
 * I added data to mongodb cloud. Then I pulled it to the backend side and tried to make the routes, controllers and models by looking at a few different projects.
